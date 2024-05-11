@@ -14,6 +14,7 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "snipeslow/Combat-Link-VCC-SDK"
+        "snipeslow/Combat-Link-VCC-SDK",
+        "snipeslow/Avatar-PVP-VCC-SDK"
     ]
 }
